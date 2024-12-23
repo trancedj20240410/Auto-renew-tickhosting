@@ -1,4 +1,4 @@
-Server ID: Unknown
+Server ID: 9d3394e1
 Renew status: Failed
-Last renewal time: 2024-12-23 02:40:22
-Error: An error occurred: Unable to login to dashboard
+Last renewal time: 2024-12-23 02:58:03
+Error: Time not extended
